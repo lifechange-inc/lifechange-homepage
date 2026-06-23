@@ -1,0 +1,19 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F2FBF3"/>
+  <rect x="80" y="120" width="800" height="480" rx="36" fill="#FFFFFF" stroke="#BFE8C5" stroke-width="10"/>
+  <rect x="130" y="200" width="160" height="120" rx="24" fill="#DCFCE7" stroke="#15803D" stroke-width="8"/>
+  <rect x="400" y="200" width="160" height="120" rx="24" fill="#FEF3C7" stroke="#15803D" stroke-width="8"/>
+  <rect x="670" y="200" width="160" height="120" rx="24" fill="#DCFCE7" stroke="#15803D" stroke-width="8"/>
+  <rect x="265" y="430" width="160" height="120" rx="24" fill="#FFFFFF" stroke="#15803D" stroke-width="8"/>
+  <rect x="535" y="430" width="160" height="120" rx="24" fill="#FFFFFF" stroke="#15803D" stroke-width="8"/>
+  <path d="M295 260H370M370 260L348 240M370 260L348 280" stroke="#15803D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M565 260H640M640 260L618 240M640 260L618 280" stroke="#15803D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M750 325V390C750 425 720 455 700 472M700 472L728 468M700 472L716 448" stroke="#15803D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M530 492H455M455 492L477 472M455 492L477 512" stroke="#15803D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="164" y="272" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">同行</text>
+  <text x="428" y="272" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">練習</text>
+  <text x="704" y="272" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">半自立</text>
+  <text x="306" y="502" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">報告</text>
+  <text x="574" y="502" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">自立</text>
+  <text x="150" y="650" fill="#14532D" font-family="Arial, sans-serif" font-size="42" font-weight="800">焦らず、現場でできることを増やす</text>
+</svg>

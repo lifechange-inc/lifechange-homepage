@@ -1,0 +1,22 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F2FBF3"/>
+  <circle cx="188" cy="162" r="54" fill="#FACC15"/>
+  <path d="M0 520C155 460 300 515 455 450C620 380 770 430 960 350V720H0V520Z" fill="#BFE8C5"/>
+  <rect x="112" y="220" width="740" height="300" rx="38" fill="#FFFFFF" stroke="#15803D" stroke-width="12"/>
+  <path d="M190 380H770" stroke="#15803D" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="210" cy="380" r="42" fill="#16A34A"/>
+  <circle cx="350" cy="380" r="42" fill="#FACC15"/>
+  <circle cx="490" cy="380" r="42" fill="#16A34A"/>
+  <circle cx="630" cy="380" r="42" fill="#FACC15"/>
+  <circle cx="770" cy="380" r="42" fill="#16A34A"/>
+  <text x="183" y="391" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="800">1</text>
+  <text x="323" y="391" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">2</text>
+  <text x="463" y="391" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="800">3</text>
+  <text x="603" y="391" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">4</text>
+  <text x="743" y="391" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="800">5</text>
+  <text x="155" y="475" fill="#14532D" font-family="Arial, sans-serif" font-size="26" font-weight="800">出発</text>
+  <text x="285" y="475" fill="#14532D" font-family="Arial, sans-serif" font-size="26" font-weight="800">到着連絡</text>
+  <text x="445" y="475" fill="#14532D" font-family="Arial, sans-serif" font-size="26" font-weight="800">施工</text>
+  <text x="575" y="475" fill="#14532D" font-family="Arial, sans-serif" font-size="26" font-weight="800">写真報告</text>
+  <text x="735" y="475" fill="#14532D" font-family="Arial, sans-serif" font-size="26" font-weight="800">帰宅</text>
+</svg>

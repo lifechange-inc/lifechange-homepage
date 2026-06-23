@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  background: #f7fff9;
+  color: #111827;
+  font-family:
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic",
+    Meiryo,
+    sans-serif;
+  line-height: 1.7;
+  line-break: strict;
+  overflow-wrap: break-word;
+  overflow-x: hidden;
+}
+
+@media (max-width: 639px) {
+  body {
+    padding-bottom: 70px;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+summary {
+  line-break: strict;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}
+
+p,
+li,
+dd {
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+
+button,
+a,
+th,
+td {
+  line-break: strict;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+::selection {
+  background: #ffe16a;
+  color: #111827;
+}
+
+@layer components {
+  .form-input {
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid #d9f2e0;
+    background: #fff;
+    padding: 0.85rem 0.95rem;
+    color: #111827;
+    outline: none;
+    transition:
+      border-color 140ms ease,
+      box-shadow 140ms ease;
+  }
+
+  .form-input:focus {
+    border-color: #06c755;
+    box-shadow: 0 0 0 3px rgba(6, 199, 85, 0.16);
+  }
+
+  .hero-band {
+    background:
+      linear-gradient(135deg, rgba(239, 255, 244, 0.96), rgba(216, 250, 221, 0.92) 54%, rgba(255, 249, 215, 0.94)),
+      #effff4;
+  }
+}

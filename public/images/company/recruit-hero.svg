@@ -1,0 +1,17 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F2FBF3"/>
+  <path d="M0 525C150 465 285 515 430 450C610 370 750 430 960 340V720H0V525Z" fill="#BFE8C5"/>
+  <rect x="112" y="130" width="736" height="456" rx="38" fill="#FFFFFF" stroke="#15803D" stroke-width="12"/>
+  <rect x="165" y="198" width="255" height="250" rx="28" fill="#DCFCE7" stroke="#15803D" stroke-width="10"/>
+  <path d="M210 350L278 280L330 330L370 294L398 350H210Z" fill="#15803D"/>
+  <circle cx="370" cy="242" r="28" fill="#FACC15"/>
+  <rect x="512" y="198" width="270" height="58" rx="18" fill="#16A34A"/>
+  <rect x="512" y="292" width="220" height="58" rx="18" fill="#FACC15"/>
+  <rect x="512" y="386" width="250" height="58" rx="18" fill="#DCFCE7" stroke="#15803D" stroke-width="8"/>
+  <path d="M230 525H730" stroke="#FACC15" stroke-width="18" stroke-linecap="round"/>
+  <path d="M250 500H710" stroke="#15803D" stroke-width="14" stroke-linecap="round"/>
+  <text x="542" y="237" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="800">挨拶</text>
+  <text x="542" y="331" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">技術</text>
+  <text x="542" y="425" fill="#14532D" font-family="Arial, sans-serif" font-size="28" font-weight="800">信用</text>
+  <text x="160" y="640" fill="#14532D" font-family="Arial, sans-serif" font-size="44" font-weight="800">手に職をつける仕事</text>
+</svg>

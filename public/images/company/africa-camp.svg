@@ -1,0 +1,16 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F2FBF3"/>
+  <rect y="430" width="960" height="290" fill="#166534"/>
+  <path d="M0 420C115 360 250 390 360 330C520 244 700 290 960 210V470H0V420Z" fill="#BFE8C5"/>
+  <circle cx="760" cy="145" r="54" fill="#FACC15"/>
+  <path d="M250 520L410 315L570 520H250Z" fill="#FFFFFF" stroke="#15803D" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M410 315V520" stroke="#15803D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M410 520L508 382L570 520H410Z" fill="#DCFCE7" stroke="#15803D" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M185 540H645" stroke="#FACC15" stroke-width="18" stroke-linecap="round"/>
+  <path d="M670 500C670 454 707 417 753 417C799 417 836 454 836 500" stroke="#15803D" stroke-width="14" stroke-linecap="round"/>
+  <path d="M715 500V575M790 500V575" stroke="#15803D" stroke-width="14" stroke-linecap="round"/>
+  <path d="M122 162L135 188L164 192L143 212L148 240L122 226L96 240L101 212L80 192L109 188L122 162Z" fill="#FACC15"/>
+  <path d="M248 88L258 108L280 111L264 126L268 148L248 138L228 148L232 126L216 111L238 108L248 88Z" fill="#FACC15"/>
+  <path d="M590 95L600 115L622 118L606 133L610 155L590 145L570 155L574 133L558 118L580 115L590 95Z" fill="#FACC15"/>
+  <text x="80" y="655" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="48" font-weight="800">Life is once.</text>
+</svg>
