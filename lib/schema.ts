@@ -55,6 +55,49 @@ export function faqPageSchema(items = faqs) {
   };
 }
 
+export function articleSchema(input: {
+  title: string;
+  description: string;
+  path: string;
+  publishedAt: string;
+  updatedAt?: string;
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: input.title,
+    description: input.description,
+    datePublished: input.publishedAt,
+    dateModified: input.updatedAt || input.publishedAt,
+    mainEntityOfPage: absoluteUrl(input.path),
+    url: absoluteUrl(input.path),
+    inLanguage: "ja-JP",
+    author: {
+      "@type": "Organization",
+      name: siteConfig.companyName,
+      url: absoluteUrl()
+    },
+    publisher: {
+      "@id": `${absoluteUrl()}#localbusiness`,
+      "@type": "Organization",
+      name: siteConfig.companyName
+    }
+  };
+}
+
+export function breadcrumbSchema(items: { name: string; path: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: items.map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: item.name,
+      item: absoluteUrl(item.path)
+    }))
+  };
+}
+
 export function serviceSchema(serviceName: string, description: string, path: string) {
   return {
     "@context": "https://schema.org",
